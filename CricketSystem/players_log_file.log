@@ -345,3 +345,9 @@ java.sql.SQLException: Field 'player_id' doesn't have a default value
 [INFO]  :  Initializing Spring DispatcherServlet 'dispatcherServlet'
 [INFO]  :  Initializing Servlet 'dispatcherServlet'
 [INFO]  :  Completed initialization in 2 ms
+[INFO]  :  Application shutdown requested.
+[INFO]  :  Commencing graceful shutdown. Waiting for active requests to complete
+[INFO]  :  Graceful shutdown complete
+[INFO]  :  Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO]  :  HikariPool-1 - Shutdown initiated...
+[INFO]  :  HikariPool-1 - Shutdown completed.
